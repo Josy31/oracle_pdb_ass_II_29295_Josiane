@@ -261,7 +261,7 @@ For security reasons, the database password used during the practical has not be
 6. Submission Details
 
 ```text
-Repository Link: [GitHub URL]
+Repository Link:https://github.com/Josy31/oracle_pdb_ass_II_29295_josiane
 PDB Name Created: jo_pdb_29295
 Issues Encountered: Yes
 ```
