@@ -203,7 +203,7 @@ I then checked the PDBs again using:
 SHOW PDBS;
 ```
 
-### Creating a PDB to Delete
+Creating a PDB to Delete
 
 I also created another PDB called `jo_to_delete_pdb_29295`.
 
@@ -239,8 +239,7 @@ SHOW PDBS;
 to check that the PDB was no longer available.
 
 ---
-
-## 4. Challenges Faced
+4. Challenges Faced
 
 One problem I faced was with the administrator username. The username was not written correctly during part of the practical.
 
@@ -251,8 +250,7 @@ I also had to check the Oracle data file paths before creating the PDB because t
 Using commands such as `SHOW PDBS` and `SHOW CON_NAME` helped me check my progress and know whether each operation had worked.
 
 ---
-
-## 5. Integrity Statement
+5. Integrity Statement
 
 I confirm that the practical work documented in this repository represents the Oracle PDB tasks carried out for this assignment. The README explains the steps and SQL commands used during the practical work.
 
@@ -260,7 +258,7 @@ For security reasons, the database password used during the practical has not be
 
 ---
 
-## 6. Submission Details
+6. Submission Details
 
 ```text
 Repository Link: [GitHub URL]
